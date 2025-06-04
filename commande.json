@@ -1,22 +1,20 @@
 [
   {
-    "id": 1,
     "client": "Ayoub",
+    "adresse": "xxxx",
     "telephone": "0600000000",
-    "position": [34.020882, -6.841650],
-    "etat": "en livraison"
+    "position": [34.018, -6.835]
   },
   {
-    "id": 201,
-    "restaurant": "La Pizzéria",
-    "adresse": "Avenue Mohammed V",
+    "restaurant": "Chez Mario",
+    "adresse": "zzzz",
+    "telephone": "0600020000",
     "position": [34.021012, -6.828152]
   },
   {
-    "id": 301,
-    "livreur": "Yassine",
-    "adresse": "Rue Ibnou Sina",
+    "livreur": "Ayb",
+    "adresse": "xxxxxxbx",
     "telephone": "0600010000",
-    "position": [34.013718, -6.822026]
+    "position": [34.008, -6.836]
   }
 ]
