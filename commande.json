@@ -40,6 +40,27 @@
     "adresse": "xxxxxxbx",
     "telephone": "0600010000",
     "position": [33.988497321892524, -6.851220980688803]
+  },
+  {
+    "id":3,
+    "restaurant": "Pizza Express",
+    "adresse": "10 Avenue Fal Ould Oumeir, Agdal",
+    "telephone": "0661223344",
+    "position": [34.0087, -6.8469]
+  },
+  {
+    "id":3,
+    "client": "Zineb El Amrani",
+    "adresse": "3 Rue Sebou, Hassan",
+    "telephone": "0611223344",
+    "position": [34.0233, -6.8256]
+  },
+  {
+    "id":3,
+    "livreur": "Karim Lahlou",
+    "adresse": "Avenue de France, Agdal",
+    "telephone": "0655332211",
+    "position": [34.0094, -6.8421]
   }
   
 ]
