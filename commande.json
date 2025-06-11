@@ -53,7 +53,7 @@
     },
     
     "client":{ 
-      "fullname" "Zineb El Amrani",
+      "fullname": "Zineb El Amrani",
       "adresse": "3 Rue Sebou, Hassan",
       "telephone": "0611223344",
       "position": [34.0233, -6.8256]
