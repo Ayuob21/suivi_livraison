@@ -1,66 +1,70 @@
 [
   {
     "id":1,
-    "client": "Ayoub",
-    "adresse": "xxxx",
-    "telephone": "0600000000",
-    "position": [34.018, -6.835] 
-  },
-  {
-    "id":1,
-    "restaurant": "Chez Mario",
-    "adresse": "zzzz",
-    "telephone": "0600020000",
-    "position": [34.021012, -6.828152]
-  },
-  {
-    "id":1,
-    "livreur": "kar",
-    "adresse": "xxxxxxbx",
-    "telephone": "0600010000",
-    "position": [34.02, -6.84]
-  },
-  {
-    "id":2,
-    "client": "A2",
-    "adresse": "xxxx",
-    "telephone": "0600000000",
-    "position": [34.01, -6.84]
+    "client":{ 
+      "fullname":"Ayoub",
+      "adresse": "xxxx",
+      "telephone": "0600000000",
+      "position": [34.018, -6.835] 
+     },
+    "restaurant":{
+      "nom":"Chez Mario",
+      "adresse": "zzzz",
+      "telephone": "0600020000",
+      "position": [34.021012, -6.828152]
+    },
+    "livreur":{ 
+      "nom":"kar",
+      "adresse": "xxxxxxbx",
+      "telephone": "0600010000",
+      "position": [34.02, -6.84]
+    }
   },
   {
     "id":2,
-    "restaurant": "Tacos de paris",
-    "adresse": "dfggddfgdgg",
-    "telephone": "0600020000",
-    "position": [33.993459184589966, -6.848675743000453]
-  },
-  {
-    "id":2,
-    "livreur": "ayb",
-    "adresse": "xxxxxxbx",
-    "telephone": "0600010000",
-    "position": [33.988497321892524, -6.851220980688803]
-  },
-  {
-    "id":3,
-    "restaurant": "Pizza Express",
-    "adresse": "10 Avenue Fal Ould Oumeir, Agdal",
-    "telephone": "0661223344",
-    "position": [34.0087, -6.8469]
-  },
-  {
-    "id":3,
-    "client": "Zineb El Amrani",
-    "adresse": "3 Rue Sebou, Hassan",
-    "telephone": "0611223344",
-    "position": [34.0233, -6.8256]
+    "client":{
+      "fullname":"A2",
+      "adresse": "xxxx",
+      "telephone": "0600000000",
+      "position": [34.01, -6.84]
+    },
+
+    "restaurant":{ 
+      "nom": "Tacos de paris",
+      "adresse": "dfggddfgdgg",
+      "telephone": "0600020000",
+      "position": [33.993459184589966, -6.848675743000453]
+    },
+ 
+    "livreur":{ 
+      "fullname": "ayb",
+      "adresse": "xxxxxxbx",
+      "telephone": "0600010000",
+      "position": [33.988497321892524, -6.851220980688803]
+    }
   },
   {
     "id":3,
-    "livreur": "Karim Lahlou",
-    "adresse": "Avenue de France, Agdal",
-    "telephone": "0655332211",
-    "position": [34.0094, -6.8421]
+    "restaurant":{
+      "name" :"Pizza Express",
+      "adresse": "10 Avenue Fal Ould Oumeir, Agdal",
+      "telephone": "0661223344",
+      "position": [34.0087, -6.8469]
+    },
+    
+    "client":{ 
+      "fullname" "Zineb El Amrani",
+      "adresse": "3 Rue Sebou, Hassan",
+      "telephone": "0611223344",
+      "position": [34.0233, -6.8256]
+    },
+    
+    "livreur":{
+      "fullname": "Karim Lahlou",
+      "adresse": "Avenue de France, Agdal",
+      "telephone": "0655332211",
+      "position": [34.0094, -6.8421]
+    }
   }
   
 ]
