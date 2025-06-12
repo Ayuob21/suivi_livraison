@@ -2,7 +2,10 @@
   {
     "id":1,
     "client":{ 
-      "fullname":"Ayoub",
+      "fullname":{
+          "nom":"azer",
+          "prenom":"Ayoub"
+      }
       "adresse": "xxxx",
       "telephone": "0600000000",
       "position": [34.018, -6.835] 
@@ -14,7 +17,10 @@
       "position": [34.021012, -6.828152]
     },
     "livreur":{ 
-      "fullname":"kar",
+      "fullname":{
+          "nom":"abc",
+          "prenom":"imad"
+      }
       "adresse": "xxxxxxbx",
       "telephone": "0600010000",
       "position": [34.02, -6.84]
@@ -23,7 +29,10 @@
   {
     "id":2,
     "client":{
-      "fullname":"A2",
+      "fullname":{
+        "nom":"liiiii",
+        "prenom":"Badr"
+      }
       "adresse": "xxxx",
       "telephone": "0600000000",
       "position": [34.01, -6.84]
@@ -37,7 +46,10 @@
     },
  
     "livreur":{ 
-      "fullname": "ayb",
+      "fullname":{
+        "nom":"ayb",
+        "prenom":"ryan"
+      }
       "adresse": "xxxxxxbx",
       "telephone": "0600010000",
       "position": [33.988497321892524, -6.851220980688803]
@@ -53,14 +65,20 @@
     },
     
     "client":{ 
-      "fullname": "Zineb El Amrani",
+      "fullname":{
+        "nom":"El Amrani",
+        "prenom":"Zineb"
+      }
       "adresse": "3 Rue Sebou, Hassan",
       "telephone": "0611223344",
       "position": [34.0233, -6.8256]
     },
     
     "livreur":{
-      "fullname": "Karim Lahlou",
+      "fullname":{
+        "nom":"lahlou",
+        "prenom":"karim"
+      }
       "adresse": "Avenue de France, Agdal",
       "telephone": "0655332211",
       "position": [34.0094, -6.8421]
