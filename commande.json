@@ -5,7 +5,7 @@
       "fullname":{
           "nom":"azer",
           "prenom":"Ayoub"
-      },
+      }
       "adresse": "xxxx",
       "telephone": "0600000000",
       "position": [34.018, -6.835] 
@@ -20,7 +20,7 @@
       "fullname":{
           "nom":"abc",
           "prenom":"imad"
-      },
+      }
       "adresse": "xxxxxxbx",
       "telephone": "0600010000",
       "position": [34.02, -6.84]
@@ -32,7 +32,7 @@
       "fullname":{
         "nom":"liiiii",
         "prenom":"Badr"
-      },
+      }
       "adresse": "xxxx",
       "telephone": "0600000000",
       "position": [34.01, -6.84]
@@ -49,7 +49,7 @@
       "fullname":{
         "nom":"ayb",
         "prenom":"ryan"
-      },
+      }
       "adresse": "xxxxxxbx",
       "telephone": "0600010000",
       "position": [33.988497321892524, -6.851220980688803]
@@ -68,7 +68,7 @@
       "fullname":{
         "nom":"El Amrani",
         "prenom":"Zineb"
-      },
+      }
       "adresse": "3 Rue Sebou, Hassan",
       "telephone": "0611223344",
       "position": [34.0233, -6.8256]
@@ -78,7 +78,7 @@
       "fullname":{
         "nom":"lahlou",
         "prenom":"karim"
-      },
+      }
       "adresse": "Avenue de France, Agdal",
       "telephone": "0655332211",
       "position": [34.0094, -6.8421]
