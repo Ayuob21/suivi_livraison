@@ -42,7 +42,7 @@
       "nom": "Tacos de paris",
       "adresse": "dfggddfgdgg",
       "telephone": "0600020000",
-      "position": [33.993459184589966, -6.848675743000453]
+      "position": [33.9934, -6.8486]
     },
  
     "livreur":{ 
@@ -52,7 +52,7 @@
       },
       "adresse": "xxxxxxbx",
       "telephone": "0600010000",
-      "position": [33.988497321892524, -6.851220980688803]
+      "position": [33.9884, -6.8512]
     }
   },
   {
