@@ -2,7 +2,7 @@
   {
     "id":1,
     "client":{ 
-      "fullname":{
+      "nomcomplet":{
           "nom":"azer",
           "prenom":"Ayoub"
       },
@@ -14,10 +14,10 @@
       "nom":"Chez Mario",
       "adresse": "zzzz",
       "telephone": "0600020000",
-      "position": [34.021012, -6.828152]
+      "position": [34.021, -6.828]
     },
     "livreur":{ 
-      "fullname":{
+      "nomcomplet":{
           "nom":"abc",
           "prenom":"imad"
       },
@@ -29,7 +29,7 @@
   {
     "id":2,
     "client":{
-      "fullname":{
+      "nomcomplet":{
         "nom":"liiiii",
         "prenom":"Badr"
       },
@@ -46,7 +46,7 @@
     },
  
     "livreur":{ 
-      "fullname":{
+      "nomcomplet":{
         "nom":"ayb",
         "prenom":"ryan"
       },
@@ -65,7 +65,7 @@
     },
     
     "client":{ 
-      "fullname":{
+      "nomcomplet":{
         "nom":"El Amrani",
         "prenom":"Zineb"
       },
@@ -75,7 +75,7 @@
     },
     
     "livreur":{
-      "fullname":{
+      "nomcomplet":{
         "nom":"lahlou",
         "prenom":"karim"
       },
