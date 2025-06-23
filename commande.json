@@ -8,7 +8,7 @@
       },
       "adresse": "xxxx",
       "telephone": "0600000000",
-      "position": [34.018, -6.835] 
+      "position": [34.01, -6.835] 
      },
     "restaurant":{
       "nom":"Chez Mario",
@@ -52,7 +52,7 @@
       },
       "adresse": "xxxxxxbx",
       "telephone": "0600010000",
-      "position": [33.9884, -6.8512]
+      "position": [33.98, -6.85]
     }
   },
   {
@@ -71,7 +71,7 @@
       },
       "adresse": "3 Rue Sebou, Hassan",
       "telephone": "0611223344",
-      "position": [34.0233, -6.8256]
+      "position": [34.02, -6.82]
     },
     
     "livreur":{
@@ -81,7 +81,7 @@
       },
       "adresse": "Avenue de France, Agdal",
       "telephone": "0655332211",
-      "position": [34.0094, -6.8421]
+      "position": [34.00, -6.84]
     }
   }
   
