@@ -1,88 +1,86 @@
 [
   {
-    "id":1,
-    "client":{ 
-      "nomcomplet":{
-          "nom":"azer",
-          "prenom":"Ayoub"
+    "id": 1,
+    "client": {
+      "nomcomplet": {
+        "nom": "azer",
+        "prenom": "Ayoub"
       },
       "adresse": "xxxx",
       "telephone": "0600000000",
-      "position": [34.01, -6.835] 
-     },
-    "restaurant":{
-      "nom":"Chez Mario",
+      "position": [34.01234, -6.83512]
+    },
+    "restaurant": {
+      "nom": "Chez Mario",
       "adresse": "zzzz",
       "telephone": "0600020000",
-      "position": [34.021, -6.828]
+      "position": [34.02145, -6.82876]
     },
-    "livreur":{ 
-      "nomcomplet":{
-          "nom":"abc",
-          "prenom":"imad"
+    "livreur": {
+      "nomcomplet": {
+        "nom": "abc",
+        "prenom": "imad"
       },
       "adresse": "xxxxxxbx",
       "telephone": "0600010000",
-      "position": [34.02, -6.84]
+      "position": [34.02021, -6.84012]
     }
   },
   {
-    "id":2,
-    "client":{
-      "nomcomplet":{
-        "nom":"liiiii",
-        "prenom":"Badr"
+    "id": 2,
+    "client": {
+      "nomcomplet": {
+        "nom": "liiiii",
+        "prenom": "Badr"
       },
       "adresse": "xxxx",
       "telephone": "0600000000",
-      "position": [34.01, -6.84]
+      "position": [34.01023, -6.84045]
     },
-
-    "restaurant":{ 
+    "restaurant": {
       "nom": "Tacos de paris",
       "adresse": "dfggddfgdgg",
       "telephone": "0600020000",
-      "position": [33.9934, -6.8486]
+      "position": [33.99347, -6.84863]
     },
- 
-    "livreur":{ 
-      "nomcomplet":{
-        "nom":"ayb",
-        "prenom":"ryan"
+    "livreur": {
+      "nomcomplet": {
+        "nom": "ayb",
+        "prenom": "ryan"
       },
       "adresse": "xxxxxxbx",
       "telephone": "0600010000",
-      "position": [33.98, -6.85]
+      "position": [33.98056, -6.85001]
     }
   },
   {
-    "id":3,
-    "restaurant":{
-      "nom" :"Pizza Express",
+    "id": 3,
+    "restaurant": {
+      "nom": "Pizza Express",
       "adresse": "10 Avenue Fal Ould Oumeir, Agdal",
       "telephone": "0661223344",
-      "position": [34.0087, -6.8469]
+      "position": [34.00873, -6.84691]
     },
-    
-    "client":{ 
-      "nomcomplet":{
-        "nom":"El Amrani",
-        "prenom":"Zineb"
+    "client": {
+      "nomcomplet": {
+        "nom": "El Amrani",
+        "prenom": "Zineb"
       },
       "adresse": "3 Rue Sebou, Hassan",
       "telephone": "0611223344",
-      "position": [34.02, -6.82]
+      "position": [34.02089, -6.82123]
     },
-    
-    "livreur":{
-      "nomcomplet":{
-        "nom":"lahlou",
-        "prenom":"karim"
+    "livreur": {
+      "nomcomplet": {
+        "nom": "lahlou",
+        "prenom": "karim"
       },
       "adresse": "Avenue de France, Agdal",
       "telephone": "0655332211",
-      "position": [34.00, -6.84]
+      "position": [34.00001, -6.84032]
     }
   }
-  
 ]
+
+  
+
